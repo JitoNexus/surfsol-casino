@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "installCommand": "npm --prefix mini-app install",
+  "buildCommand": "npm --prefix mini-app run build",
+  "outputDirectory": "mini-app/dist"
+}
